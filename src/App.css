@@ -1,0 +1,27 @@
+.nav a.active {
+  color: #8064A2 ;
+  border-bottom: 2px solid #8064A2 ;
+} 
+
+.password-meter {
+    display: flex;
+    height: 5px;
+    margin-top: 12px;
+}
+
+.meter-section {
+    flex: 1;
+    background-color: #ddd;
+}
+
+.weak {
+    background-color: #ff4d4d;
+}
+
+.medium {
+    background-color: #ffd633;
+}
+
+.very-strong {
+    background-color: #009900;
+}
