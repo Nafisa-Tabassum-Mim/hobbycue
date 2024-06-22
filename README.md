@@ -1,8 +1,4 @@
-# React + Vite
+## Website name - hobbycue
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live site URL- [live link](https://66775ec7a47af8fe60d36b5f--gilded-paprenjak-d541f1.netlify.app/login)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
